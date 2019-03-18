@@ -14,3 +14,5 @@ class BCclass{
   setNames(string[]);
   int getnrSt();
 };
+************
+//More stuff
